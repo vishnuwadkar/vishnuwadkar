@@ -6,11 +6,17 @@
   <img src="https://github.com/vishnuwadkar/vishnuwadkar/blob/main/Vishnu%20Wadkar%20new.png?raw=true" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
+---
+
+
 Student | Artificial Intelligence and Datascience | Web Development | :wink:
  
  🔭 I’m planning for a **Career in AI and Machine Learning with Python**.
  
  🌱 I’m currently pursuing a **Bachelor's degree in Artificial Intelligence and Datascience** 
+
+---
+
 
 ### Tech & Tools Preference
 
@@ -26,8 +32,7 @@ Student | Artificial Intelligence and Datascience | Web Development | :wink:
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
-
-
+---
 
 
 ### You can find in me in the web 🌍
@@ -48,3 +53,8 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 :star: From [vishnuwadkar](https://github.com/vishnuwadkar) <br>
 Instagram: https://www.instagram.com/vishnuwadkar/ <br>
 Linked in: https://www.linkedin.com/in/vishnu-wadkar-63078816b/ 
+
+
+---
+
+
