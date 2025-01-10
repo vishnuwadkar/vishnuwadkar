@@ -44,20 +44,27 @@ Student | Artificial Intelligence and Datascience | Web Development | :wink:
 ----
 
 ## My GitHub Stats-
-  
-  ![Github Stats By Vishnu Wadkar](https://github-readme-stats.vercel.app/api?username=vishnuwadkar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
+<br>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuwadkar&layout=compact&theme=radical" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnuwadkar&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
+</p>
 </br>
 
 
 ---
 
-Let's connect 👨‍💻 and forge the future together.😁✌
+Grind Mode On⚡
+---
 
 **Check the Repositories and don't forget to give a star.** 👇
 
 :star: From [vishnuwadkar](https://github.com/vishnuwadkar) <br>
-Instagram: https://www.instagram.com/vishnuwadkar/ <br>
-Linked in: https://www.linkedin.com/in/vishnu-wadkar-63078816b/ 
+
+---
+
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/vishnuwadkar/count.svg)
 
 
 ---
