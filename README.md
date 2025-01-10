@@ -77,7 +77,7 @@ Grind Mode On⚡
 
 ---
 
-#### Thanks for visiting :heart:
+#### Thanks for visiting 👽
 ![VisitorCount](https://profile-counter.glitch.me/vishnuwadkar/count.svg)
 
 
