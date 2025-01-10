@@ -45,6 +45,6 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [vishnuwadkar](https://github.com/vishnuwadkar)
-[instagram]: https://www.instagram.com/vishnuwadkar/
-[linkedin]: https://www.linkedin.com/in/vishnu-wadkar-63078816b/
+:star: From [vishnuwadkar](https://github.com/vishnuwadkar) <br>
+Instagram: https://www.instagram.com/vishnuwadkar/ <br>
+Linked in: https://www.linkedin.com/in/vishnu-wadkar-63078816b/ 
