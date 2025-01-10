@@ -10,11 +10,13 @@
 ---
 
 
-Student | Artificial Intelligence and Datascience | Web Development | :wink:
+**Student | Artificial Intelligence and Datascience | Web Development |** :wink:
  
  🔭 I’m planning for a **Career in AI and Machine Learning with Python**.
  
- 🌱 I’m currently pursuing a **Bachelor's degree in Artificial Intelligence and Datascience** 
+ 💻 I’m currently pursuing a **Bachelor's degree in Artificial Intelligence and Datascience** 
+
+🎥 Apart from Coding, I have a keen interest in **photography and videography**.
 
 ---
 
