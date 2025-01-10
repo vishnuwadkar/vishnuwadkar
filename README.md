@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/vishnuwadkar/vishnuwadkar/blob/main/Vishnu%20Wadkar%20(3).png?raw=true" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/vishnuwadkar/vishnuwadkar/blob/main/Vishnu%20Wadkar%20new.png?raw=true" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 Student | Artificial Intelligence and Datascience | Web Development | :wink:
