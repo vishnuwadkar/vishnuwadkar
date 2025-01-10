@@ -35,13 +35,17 @@ Student | Artificial Intelligence and Datascience | Web Development | :wink:
 ---
 
 
-### You can find in me in the web 🌍
+- 📫 How to reach me:
+  
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/vishnuwadkar) |[<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](vishnuwadkar2004@gmail.com) | [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](vishnu12wadkar@gmail.com) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/wadkarvishnu) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">] |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/vishnu-wadkar-63078816b/) 
+|---|---|---|---|---|---|
 
-[<img align="left" alt="vishnuwadkar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="vishnuwadkar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vishnuwadkar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+----
 
-<br/>
+## My GitHub Stats-
+  
+  ![Github Stats By Vishnu Wadkar](https://github-readme-stats.vercel.app/api?username=vishnuwadkar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
+</br>
 
 
 ---
