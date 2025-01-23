@@ -38,7 +38,7 @@
 ---
 
 
-- 📫 How to reach me:
+<h2>📫 How to reach me:</h2>
   
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/vishnuwadkar) |[<img src="https://github.com/vishnuwadkar/vishnuwadkar/blob/main/fb.png" alt="gmail logo" width="24">](https://www.facebook.com/wadkarvishnu) | [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](vishnu12wadkar@gmail.com) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/wadkarvishnu) | [<img src="https://github.com/vishnuwadkar/vishnuwadkar/blob/main/insta.png" alt="gitlab logo" width="24">](https://www.instagram.com/vishnuwadkar) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/vishnu-wadkar-63078816b/) 
 |---|---|---|---|---|---|
