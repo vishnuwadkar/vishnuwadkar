@@ -1,84 +1,38 @@
-## Hello World 👋
-
-**It's Vishnu Wadkar here...**
-
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Prathamesh%20Zagade&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Building+Intelligent+Systems+with+AI;Learning+LLMs+%2C+MLOps+%26+Deployment;Turning+Ideas+Into+Real+World+Projects"/>
 <p align="center">
-  <img src="https://github.com/vishnuwadkar/vishnuwadkar/blob/main/Vishnu%20Wadkar%20new.png?raw=true" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://komarev.com/ghpvc/?username=prathamxz&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+</div>
 
 ---
 
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
-**Student | Artificial Intelligence and Datascience | Web Development |** :wink:
- 
- 🔭 I’m planning for a **Career in AI and Machine Learning with Python**.
- 
- 💻 I’m currently pursuing a **Bachelor's degree in Artificial Intelligence and Datascience** 
-
-🎥 Apart from Coding, I have a keen interest in **photography and videography**.
-
----
-
-
-### Tech & Tools Preference
-
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-
----
-
-
-<h2>📫 How to reach me:</h2>
-  
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/vishnuwadkar) |[<img src="https://github.com/vishnuwadkar/vishnuwadkar/blob/main/fb.png" alt="gmail logo" width="24">](https://www.facebook.com/wadkarvishnu) | [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](vishnu12wadkar@gmail.com) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/wadkarvishnu) | [<img src="https://github.com/vishnuwadkar/vishnuwadkar/blob/main/insta.png" alt="gitlab logo" width="24">](https://www.instagram.com/vishnuwadkar) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/vishnu-wadkar-63078816b/) 
-|---|---|---|---|---|---|
-
-----
-
-## My GitHub Stats-
-<br>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuwadkar&layout=compact&theme=radical" alt="My Github Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnuwadkar&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
-</p>
-</br>
-
----
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-Python       16 hrs 3 mins   ██████████████████░░░░░░░   68.42 %
-Datascience  5 hrs 58 mins   █████████░░░░░░░░░░░░░░░░   29.42 %
-MySQL        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-C++          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-Javascript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+# 💫 About Me
+```yaml
+Name: Vishnu Wadkar
+Location: Pune, Maharashtra 🇮🇳
+Education: B.E Artificial Intelligence & Data Science
+Role: AI & Data Science Engineer
 ```
 
----
+🎯 Passionate about building intelligent systems using  
+**Machine Learning, Deep Learning, NLP, AI Applications & Deployment**
 
-Grind Mode On⚡
----
+🚀 Currently exploring:
+- Large Language Models (LLMs) & Transformers
+- Retrieval-Augmented Generation (RAG)
+- LangChain & Agentic AI
+- MLOps & Model Deployment
+- Deep Learning Architectures
+- Cloud Deployment & Automation
+- Real-World AI Systems
 
-**Check the Repositories and don't forget to give a star.** 👇
+💡 I enjoy transforming ideas into AI-powered solutions that solve practical problems.
 
-:star: From [vishnuwadkar](https://github.com/vishnuwadkar) <br>
+📫 Reach me at:  
+**vishnuwadkar2004@gmail.com**
 
----
-
-#### Thanks for visiting 👽
-![VisitorCount](https://profile-counter.glitch.me/vishnuwadkar/count.svg)
-
-
----
+</div>
