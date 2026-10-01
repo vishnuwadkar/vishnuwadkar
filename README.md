@@ -1,7 +1,9 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Vishnu%20Wadkar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Building+Intelligent+Systems+with+AI;Learning+LLMs+%2C+MLOps+%26+Deployment;Turning+Ideas+Into+Real+World+Projects"/>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prathamxz&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 </div>
 
 ---
